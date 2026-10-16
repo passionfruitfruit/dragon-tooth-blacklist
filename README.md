@@ -2,7 +2,7 @@
 
 A Stardew Valley SMAPI mod that lets each weapon reject unwanted **complete Dragon Tooth enchantment combinations**, ignoring enchantment levels.
 
-[Download v1.1.0](https://github.com/passionfruitfruit/dragon-tooth-blacklist/releases/tag/v1.1.0) · [中文说明](README-中文.md)
+[Download v1.1.0](https://github.com/passionfruitfruit/dragon-tooth-blacklist/releases/tag/v1.1.0) · [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/53990) · [中文说明](README-中文.md)
 
 ## How it works
 

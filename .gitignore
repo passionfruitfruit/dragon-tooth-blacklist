@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+.DS_Store
+*.user
+*.suo
+*.dll
+*.pdb
+*.zip
+.env
+.env.*
+*.pfx
+*.key

@@ -1,0 +1,4 @@
+{
+  "forge.coal": "Consume 1 coal to remove and ban this complete innate type combination at every level. No Cinder Shards required. A full blacklist resets automatically.",
+  "forge.quartz": "Consume 1 quartz to reset this weapon's blacklist. All current enchantments are preserved. No Cinder Shards required."
+}

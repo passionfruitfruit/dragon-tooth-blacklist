@@ -1,0 +1,12 @@
+{
+  "Name": "Dragon Tooth Blacklist",
+  "Author": "Luke",
+  "Version": "1.1.0",
+  "Description": "Per-weapon Dragon Tooth type-combination blacklists, ignoring levels. Coal bans; quartz resets.",
+  "UniqueID": "Luke.DragonToothBlacklist",
+  "EntryDll": "DragonToothBlacklist.dll",
+  "MinimumApiVersion": "4.5.2",
+  "UpdateKeys": [
+    "GitHub:passionfruitfruit/dragon-tooth-blacklist"
+  ]
+}
